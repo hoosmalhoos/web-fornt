@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+  width: 100%;
+
+}
+
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+h1 {
+  color: #008000;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  margin: 0 10px;
+}
+
+a {
+  color: #008000;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
